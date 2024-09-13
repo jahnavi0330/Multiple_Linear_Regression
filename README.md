@@ -76,7 +76,7 @@ Accuracy can be found by importing following functions
 ## Loss (or) error (or) residual :  
 The difference between the predicted and actual values of data.    
 
-    #    # from sklearn.metrics import -----
+    # from sklearn.metrics import -----
     ->mean_squared_error()
     ->mean_absolute_error()
     ->root_mean_squared_error()        
