@@ -61,16 +61,19 @@ c = intercept (intercept_)
     ->predict() 
 The above function is used to get predicted values from the model by giving trained independet data and test independent data.
 
-## Training accuracy : The proportion of correct predictions over the training dataset.
+## Training accuracy : 
+The proportion of correct predictions over the training dataset.
 
-## Test accuracy : The proportion of correct predictions over the test dataset.
+## Test accuracy : 
+The proportion of correct predictions over the test dataset.
 
 Accuracy can be found by importing following functions
     
     ->r2_score()
     ->score()
 
-## Loss (or) error (or) residual :  the difference between the predicted and actual values of data.    
+## Loss (or) error (or) residual :  
+The difference between the predicted and actual values of data.    
     
     ->mean_squared_error()
     ->mean_absolute_error()
