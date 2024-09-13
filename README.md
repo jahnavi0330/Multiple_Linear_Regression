@@ -13,7 +13,7 @@ The python implementation uses the sklearn library to build a regression model w
 
 ![App Screenshot](https://media.licdn.com/dms/image/D4D12AQFIJ_41MpAq2w/article-cover_image-shrink_720_1280/0/1692450132499?e=2147483647&v=beta&t=UWu2peXzF4N2Ki16pSOKDAe4lG1AjoMkylC0-_dePTU)
 
-### used data : car_purchasing_data
+## used data : car_purchasing_data
 
 we import the required libraries.And the data should be pre-processed before training the model.
 
@@ -61,11 +61,10 @@ c = intercept (intercept_)
     ->predict() 
 The above function is used to get predicted values from the model by giving trained independet data and test independent data.
 
-## Training accuracy : 
-The proportion of correct predictions over the training dataset.
+## Accuracy
+Training accuracy : The proportion of correct predictions over the training dataset.
 
-## Test accuracy : 
-The proportion of correct predictions over the test dataset.
+Test accuracy : The proportion of correct predictions over the test dataset.
 
 Accuracy can be found by importing following functions
     
