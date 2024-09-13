@@ -16,6 +16,7 @@ The python implementation uses the sklearn library to build a regression model w
 ### used data : car_purchasing_data
 
 we import the required libraries.And the data should be pre-processed before training the model.
+
     ->Every column should should contain only numerical data.
     ->should not contain null values.
     ->Unnecessary columns should be removed.
