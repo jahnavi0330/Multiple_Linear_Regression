@@ -26,7 +26,7 @@ we divide the data into two parts.
     1.independent columns
     2.dependent column
 
-## splitting the data into training and testing parts
+## splitting the data into training and test parts
 
     # from sklearn.model_selection import train_test_split 
 
