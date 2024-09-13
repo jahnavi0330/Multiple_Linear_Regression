@@ -46,7 +46,7 @@ An object is assigned for the LinearRegression class.
 
 ## Training the algorithm to get model
 
-    ->fit() is used to train the algorithm and get the modelas an outcome.
+    ->fit() is used to train the algorithm and get the model as an outcome.
 
     Then the model is
     y=m(x)+c
