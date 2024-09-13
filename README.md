@@ -49,7 +49,7 @@ An object is assigned for the LinearRegression class.
     ->fit() is used to train the algorithm and get the model as an outcome.
 
     Then the model is
-    y=m(x)+c
+    ## y=m1(x1)+m2(x2)+....+c
 where,
 
 m1,m2,... = slope values (coef_)
