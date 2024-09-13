@@ -48,8 +48,8 @@ An object is assigned for the LinearRegression class.
 
     ->fit() is used to train the algorithm and get the modelas an outcome.
 
-Then the model is
-    y=m(x)+c
+     Then the model is
+     y=m(x)+c
             where,
             m = slope
             c = intercept
