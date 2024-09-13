@@ -21,3 +21,20 @@ we import the required libraries.And the data should be pre-processed before tra
     ->should not contain null values.
     ->Unnecessary columns should be removed.
 
+we divide the data into two parts.
+
+    1.independent columns
+    2.dependent column
+
+## splitting the data into training and testing parts
+
+    # from sklearn.model_selection import train_test_split 
+
+By importing above function we split the entire data into four parts 
+
+    1.independent training data
+    2.independent test data
+    3.dependent training data
+    4.dependent test data 
+
+
