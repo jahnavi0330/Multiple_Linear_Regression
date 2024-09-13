@@ -50,9 +50,11 @@ An object is assigned for the LinearRegression class.
 
     Then the model is
     y=m(x)+c
-    where,
-    m1,m2,... = slope values (coef_)
-    c = intercept (intercept_)
+where,
+
+m1,m2,... = slope values (coef_)
+
+c = intercept (intercept_)
 
     
            
