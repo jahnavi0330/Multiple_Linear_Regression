@@ -68,13 +68,15 @@ Training accuracy : The proportion of correct predictions over the training data
 Test accuracy : The proportion of correct predictions over the test dataset.
 
 Accuracy can be found by importing following functions
-    
+
+    # from sklearn.metrics import r2_score,score
     ->r2_score()
     ->score()
 
 ## Loss (or) error (or) residual :  
 The difference between the predicted and actual values of data.    
-    
+
+    #    # from sklearn.metrics import -----
     ->mean_squared_error()
     ->mean_absolute_error()
     ->root_mean_squared_error()        
